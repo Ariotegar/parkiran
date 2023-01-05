@@ -1,6 +1,5 @@
 # Hi there, I'm Ariotegar! call me Ario!
 
-
 ## I'm a Student from Telkom University, Here's a few facts about me!
 
 - 💻 I have some basic skills in coding, for one i can do basic python, golang, and now just started learning C++!
@@ -12,3 +11,5 @@
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCAggRo2oXYpadRJCmITnoVA
+
+## Here's one of my codes that i've done in the past! Hope you learn something from it!
